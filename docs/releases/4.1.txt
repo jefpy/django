@@ -83,6 +83,8 @@ Minor features
 * The :meth:`.AdminSite.get_app_list` method now allows changing the order of
   apps and models on the admin index page.
 
+* The new :func:'django.shortcuts.make_toast' function returns ``'toast'``.
+
 :mod:`django.contrib.admindocs`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
